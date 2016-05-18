@@ -1,6 +1,6 @@
 # Express Objection.js boilerplate
 
-A simple boilerplate for using Objection.js with Express. Test
+A simple boilerplate for using Objection.js with Express.
 
 ## Installation
 
@@ -34,7 +34,7 @@ Omit --env=development and --development if you're running the production versio
 
 ## Tests
 
-All tests are run using `npm test`. Tests expect a table DATABASE_URL + 'test' to exit. You can override this in the 
+All tests can be run using `npm test`. Tests expect a table DATABASE_URL + 'test' to exit. You can override this in the 
 knexfile.
 
 Code coverage is reported using Istanbul. 
