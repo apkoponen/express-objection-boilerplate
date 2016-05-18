@@ -1,0 +1,5 @@
+instrumentation:
+  excludes: ['test/helpers*']
+
+reporting:
+  dir: ./test-coverage
